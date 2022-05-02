@@ -1,4 +1,4 @@
-# -100devs-hair-saloon
+# -100devs-level-ground
 
 Level ground made as an assigment for #100devs bootcamp. Original design not done by me.
 
